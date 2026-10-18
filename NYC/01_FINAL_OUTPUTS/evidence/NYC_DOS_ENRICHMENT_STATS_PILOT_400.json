@@ -1,0 +1,14 @@
+{
+  "mailing_addresses": 400,
+  "unique_llc_names": 1794,
+  "entity_rows": 1800,
+  "matched_entity_rows": 1691,
+  "match_rate": 0.9394444444444444,
+  "address_corroborated_entity_rows": 752,
+  "clusters_strong_dos_corroboration": 197,
+  "clusters_shared_dos_address": 142,
+  "clusters_with_possible_named_addressee": 49,
+  "email_rows": 0,
+  "phone_rows": 0,
+  "dataset_updated_note": "NY DOS dataset contains active entities only and is updated monthly."
+}

@@ -1,0 +1,17 @@
+{
+  "inputCandidates": 12528,
+  "excludedRows": 3501,
+  "survivorsBeforeDeduplication": 9027,
+  "finalUniqueMailingAddresses": 8362,
+  "duplicateRowsConsolidated": 665,
+  "exclusionReasonCounts": {
+    "CARE_OF_OR_AGENT": 2337,
+    "LOW_SOURCE_CONFIDENCE": 1638,
+    "SOURCE_AGENT_ADDRESS_MARKER": 1555,
+    "SOURCE_REQUIRES_MANUAL_REVIEW": 929,
+    "LEGAL_OR_LAWYER": 425,
+    "PROPERTY_ADDRESS_USED_AS_MAILING_ADDRESS": 95,
+    "AGENT_OR_FILING_SERVICE": 68,
+    "CPA_OR_ACCOUNTING": 33
+  }
+}

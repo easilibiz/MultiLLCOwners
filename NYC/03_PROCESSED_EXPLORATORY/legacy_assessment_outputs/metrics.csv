@@ -1,0 +1,7 @@
+metric,value
+Downloaded final-roll rows,189340
+Unique final-roll property records,189340
+Distinct normalized LLC names,133061
+LLC names with multiple property records,16833
+Properties held by multi-property LLC names,73112
+Property addresses listing multiple LLC names,816
